@@ -1,3 +1,6 @@
+# Checkout and Interact with my Dashboard On:
+https://www.novypro.com/project/code-basics?scroll=
+
 # Atliq-hospitatility
 
 I have created a Dashboard for Atliq Grands in Hospitality Domain using Power BI Aim of The Project- The Initiative of this project is to add a real-time project to the resume(cv). Challenge was to Provide Insights to Revenue Team in Hospitality Domain (Atliq Grands). About the client- "Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/ business hotels category.
@@ -24,4 +27,4 @@ This challenge provided me with a real-life experience of working within a compa
 >Learn better Understanding at how to do proper data modelling. 
 >Learn and connected the tables via star schema with many-to-one relation.
 
-# Checkout and Interact with my Dashboard On:
+
