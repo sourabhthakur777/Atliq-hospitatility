@@ -14,10 +14,10 @@ I have tried to provide some insights for the same.
 >Data Modeliing
 
 # Steps covered:
->Imported data from MS Excel to Power BI
->Data transformation in Power Query editor
->Made measures important for Dashboarding
->Setup Dashboard background
+>🌐Imported data from MS Excel to Power BI
+>🪄Data transformation in Power Query editor
+>⚒️Made measures important for Dashboarding
+>📊Setup Dashboard background
 >Set-up Dashboard Theme >Format Visuals
 >Overall rating visualization
 >Dashboard formatting
